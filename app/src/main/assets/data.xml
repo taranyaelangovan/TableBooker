@@ -1,0 +1,32 @@
+<restaurants>
+    <restaurant>
+        <name>Orange Wok</name>
+        <cuisine>Casual Dining - Chinese</cuisine>
+        <rating>4.2</rating>
+        <desc>Orange Wok is known for vibrant decor, cozy, ample seating area, good value, friendly service and courteous staff. Its signature dishes include Crispy Chilli Mushroom, Tom Yum Goong, Mint Lime Cooler, Fish Chilli, Pan Fried Noodles and Dimsum.</desc>
+        <addr>HM Center, Nungambakkam High Road, Nungambakkam, Chennai</addr>
+        <phno>+914442329158</phno>
+        <capacity>10</capacity>
+        <approxcost>1000</approxcost>
+    </restaurant>
+    <restaurant>
+        <name>Hotel Sangeetha</name>
+        <cuisine>Quick Bites + Casual Dining - South Indian</cuisine>
+        <rating>3.0</rating>
+        <desc>Hotel Sangeetha is known for good value, quick service, tasty combos, reasonable prices and meals. Its popular dishes include Sambhar, Masala Dosa, Chutneys, Vada and Coffee</desc>
+        <addr>91, Shivalaya Complex, Ethiraj Street, Egmore, Chennai</addr>
+        <phno>+914428228787</phno>
+        <capacity>30</capacity>
+        <approxcost>700</approxcost>
+    </restaurant>
+    <restaurant>
+        <name>Barbeque Nation</name>
+        <cuisine>Casual Dining - BBQ</cuisine>
+        <rating>4.6</rating>
+        <desc>Barbeque Nation is known for its indoor barbecue concept venue offering a 'Do-It-Yourself' grilling experience at every table. Its popular dishes include Peri Peri Wings, Paneer Grill, Cajun Potato, Crispy Corn and Kulfi</desc>
+        <addr>3, Khader Nawaz Khan Road, Nungambakkam, Chennai</addr>
+        <phno>+918061756008</phno>
+        <capacity>20</capacity>
+        <approxcost>1600</approxcost>
+    </restaurant>
+</restaurants>
