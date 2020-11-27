@@ -1,0 +1,116 @@
+<resources>
+    <string name="app_name">TableBooker</string>
+    <string name="welcome_msg">Welcome to TableBooker!</string>
+    <string name="button_msg">Click here to begin</string>
+    <string name="logo_desc">logo</string>
+    <string name="temp">go to next</string>
+    <string name="place_desc">Description: </string>
+    <string name="makeresbutton">Make Reservation</string>
+    <string name="contactbutton">Contact Us</string>
+    <string name="view_menu">View Menu</string>
+    <string name="send_email">SEND EMAIL</string>
+    <string name="contact_header">Contact Us</string>
+    <string name="todo">icon</string>
+
+    <string name="name_label">Name :</string>
+    <string name="phone_label">Phone :</string>
+    <string name="seatcount_label">No. of seats :</string>
+    <string name="time_label">Time :</string>
+    <string name="booking_label">Make your Booking</string>
+    <string name="book_button">BOOK</string>
+
+    <string name="time_prompt">Select time</string>
+    <string-array name="time_arrays">
+        <item>12:00 PM</item>
+        <item>12:30 PM</item>
+        <item>1:00 PM</item>
+        <item>7:30 PM</item>
+        <item>8:00 PM</item>
+        <item>8:30 PM</item>
+    </string-array>
+
+
+    <string name="name">Name</string>
+    <string name="description">Description</string>
+    <string name="price">Price</string>
+
+    <string-array name="names">
+        <item>Orange Wok</item>
+        <item>Hotel Sangeetha</item>
+        <item>Barbecue Nation</item>
+    </string-array>
+
+    <string-array name="rating">
+        <item>4.2/5.0</item>
+        <item>3.0/5.0</item>
+        <item>4.6/5.0</item>
+    </string-array>
+
+    <string-array name="descriptions">
+        <item>Malaysian, Asian, Chinese</item>
+        <item>South Indian, North Indian, Chinese, Fast food</item>
+        <item>North Indian, Kebab, BBQ, Desserts</item>
+    </string-array>
+
+    <string-array name="items_o">
+        <item>Fried Rice Bowl</item>
+        <item>Noodle Bowl</item>
+        <item>Mee Goreng Bowl</item>
+        <item>All Spice Nonveg Combo</item>
+    </string-array>
+
+    <string-array name="prices_o">
+        <item>₹220.00</item>
+        <item>₹220.00</item>
+        <item>₹230.00</item>
+        <item>₹510.00</item>
+    </string-array>
+
+    <string-array name="descriptions_o">
+        <item>Veg fried rice + Mix veg schezwan gravy + veg momos(2 pieces)</item>
+        <item>Hakka veg noodle + Spicy garden veg + veg momos(2 pieces)</item>
+        <item>Chicken Mee Goreng + Omelette + Crackers</item>
+        <item>Fried rice/noodle + Gravy + Chicken lollipop(3 pieces) + Chocolate Brownie</item>
+    </string-array>
+
+    <string-array name="items_s">
+        <item>Butter/Garlic Naan</item>
+        <item>Paneer Butter Masala</item>
+        <item>Rava Dosa</item>
+        <item>Special Dinner</item>
+    </string-array>
+
+    <string-array name="prices_s">
+        <item>₹72.00</item>
+        <item>₹180.00</item>
+        <item>₹100.00</item>
+        <item>₹167.00</item>
+    </string-array>
+
+    <string-array name="descriptions_s">
+        <item>Soft and Toasted Naan (2 pieces)</item>
+        <item>Rich and Creamy curry with 8 to 12 pieces of paneer</item>
+        <item>Goldren Roasted Rava Dosa with Onion toppings</item>
+        <item>Chappathi(2 pieces) + Any gravy +Dosa(2nos) +Idiyappam(2nos)</item>
+    </string-array>
+
+    <string-array name="items_b">
+        <item>BBQ Box</item>
+        <item>Meals Box (veg)</item>
+        <item>Grill Box</item>
+    </string-array>
+
+    <string-array name="prices_b">
+        <item>₹450.00</item>
+        <item>₹300.00</item>
+        <item>₹400.00</item>
+    </string-array>
+
+    <string-array name="descriptions_b">
+        <item>Coastal BBQ Prawns +Chilli Garlic Fish +Chicken Dum Briyani +Dessert +Chocolate Brownie</item>
+        <item>2 Veg Appetizers to choose +Paneer Tikka +Corn Cheese Roll +Ricecake +Any Curry</item>
+        <item>4 Succulent Grilled Kebabs +Crispy Fried Signature Dishes +Dessert +Indian Bread(2 nos)</item>
+    </string-array>
+
+
+</resources>
